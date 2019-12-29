@@ -14,6 +14,8 @@ in the blue piece.  The player will need to place the green and red
 pieces so that they fit neatly on the green and red pegs, and to
 complete the game will need to ensure that all pieces are placed with
 no overlaps and no gaps.
+
+
 ![game2](assets/a7A7b6A7c1A3d2A6e2C3f3C4g4A7h6D0i6B0j2B0j1C0k3C0l4B0l5C0-350.png)
 
 ## How to play
